@@ -7,14 +7,35 @@
     "light": "#3B9CD9",
     "dark": "#0B6BB3"
   },
+  "favicon": "/favicon.svg",
   "navigation": {
     "groups": [
       {
-        "group": "Home",
+        "group": "Panels & Meters",
         "pages": [
-          "index"
+          "subpanel",
+          "federal-pacific-panel"
+        ]
+      },
+      {
+        "group": "Surge & Safety",
+        "pages": [
+          "burning-smell-electrical-panel"
+        ]
+      },
+      {
+        "group": "More Topics",
+        "pages": [
+          "amperage-upgrade",
+          "load-center",
+          "main-disconnect",
+          "home-insurance-requirements-electrical-upgrades",
+          "home-electrical-capacity-increase"
         ]
       }
     ]
+  },
+  "footer": {
+    "socials": {}
   }
 }
