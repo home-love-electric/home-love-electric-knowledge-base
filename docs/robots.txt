@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home-love-electric.github.io/home-love-electric-knowledge-base/sitemap.xml
