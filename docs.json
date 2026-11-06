@@ -13,13 +13,18 @@
       {
         "group": "Panels & Meters",
         "pages": [
+          "200-amp-service-upgrade",
           "subpanel",
-          "federal-pacific-panel"
+          "smart-meter",
+          "main-service-panel",
+          "federal-pacific-panel",
+          "meter-tampering"
         ]
       },
       {
         "group": "Surge & Safety",
         "pages": [
+          "flickering-lights-electrical-symptom",
           "burning-smell-electrical-panel"
         ]
       },
