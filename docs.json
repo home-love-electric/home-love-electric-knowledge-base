@@ -14,11 +14,19 @@
         "group": "Panels & Meters",
         "pages": [
           "200-amp-service-upgrade",
+          "fuse-box-replacement",
           "subpanel",
           "smart-meter",
           "main-service-panel",
+          "outdated-electrical-panel",
           "federal-pacific-panel",
           "meter-tampering"
+        ]
+      },
+      {
+        "group": "Outlets, Switches & Fans",
+        "pages": [
+          "gfci-protection"
         ]
       },
       {
