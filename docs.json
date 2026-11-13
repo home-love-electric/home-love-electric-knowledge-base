@@ -13,6 +13,7 @@
       {
         "group": "Panels & Meters",
         "pages": [
+          "main-breaker-panel",
           "200-amp-service-upgrade",
           "fuse-box-replacement",
           "subpanel",
@@ -24,9 +25,21 @@
         ]
       },
       {
+        "group": "Wiring",
+        "pages": [
+          "generator-interlock-kit"
+        ]
+      },
+      {
         "group": "Outlets, Switches & Fans",
         "pages": [
           "gfci-protection"
+        ]
+      },
+      {
+        "group": "Lighting",
+        "pages": [
+          "dimming-lights-electrical-symptom"
         ]
       },
       {
@@ -37,11 +50,19 @@
         ]
       },
       {
+        "group": "Standards & Licensing",
+        "pages": [
+          "tampa-bay-electrical-permit"
+        ]
+      },
+      {
         "group": "More Topics",
         "pages": [
           "amperage-upgrade",
           "load-center",
+          "neutral-bus-bar",
           "main-disconnect",
+          "ground-fault-circuit-interrupter",
           "home-insurance-requirements-electrical-upgrades",
           "home-electrical-capacity-increase"
         ]
