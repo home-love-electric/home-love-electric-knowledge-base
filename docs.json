@@ -21,13 +21,16 @@
           "main-service-panel",
           "outdated-electrical-panel",
           "federal-pacific-panel",
+          "zinsco-panel",
+          "old-fuse-box",
           "meter-tampering"
         ]
       },
       {
         "group": "Wiring",
         "pages": [
-          "generator-interlock-kit"
+          "generator-interlock-kit",
+          "wiring-assessment"
         ]
       },
       {
@@ -52,6 +55,7 @@
       {
         "group": "Standards & Licensing",
         "pages": [
+          "florida-electrical-code",
           "tampa-bay-electrical-permit"
         ]
       },
@@ -63,6 +67,9 @@
           "neutral-bus-bar",
           "main-disconnect",
           "ground-fault-circuit-interrupter",
+          "electrical-utility-connection",
+          "insufficient-electrical-capacity",
+          "energy-efficiency-compliance",
           "home-insurance-requirements-electrical-upgrades",
           "home-electrical-capacity-increase"
         ]
