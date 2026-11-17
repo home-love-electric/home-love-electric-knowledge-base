@@ -73,6 +73,12 @@
           "home-insurance-requirements-electrical-upgrades",
           "home-electrical-capacity-increase"
         ]
+      },
+      {
+        "group": "About",
+        "pages": [
+          "about-this-guide"
+        ]
       }
     ]
   },
